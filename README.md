@@ -11,4 +11,5 @@ Ce mini-projet est une application web simple qui permet à un utilisateur de sa
 * Affichage dynamique des informations reçues et du QR Code sans recharger la page
 * Messages d’erreur en cas de champs invalides ou erreur serveur
 
+# Auteur
 **Math-Baba** - [GitHub](https://github.com/Math-Baba)
