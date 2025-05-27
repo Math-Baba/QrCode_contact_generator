@@ -22,7 +22,7 @@ document.getElementById('infoPerso').addEventListener('submit', function(e) {
     }
     champVide.textContent='';
 
-
+    // ----- UTILISATION DE AJAX ---------
     var formData = new FormData(this); // Création d'un objet FormData pour contenir toutes les infos du formulaire
     var xhr = new XMLHttpRequest(); // Crée un nouvel objet XMLHttpRequest pour envoyer une requête HTTP asynchrone
     xhr.open('POST', 'process.php', true); // Requête HTTP POST vers process.php
